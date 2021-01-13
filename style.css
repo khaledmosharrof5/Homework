@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+}
+.darkblue-highlight{
+    color: rgb(8, 8, 248);
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, darkblue);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 12px;
+}
+.half-width img{
+    width: 50%;
+}
+   
+.half-width{
+    width: 42%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    height: 400px;
+}
+.row{
+    float: left;
+    width: 25%;
+    margin: 2%;
+    padding-left: 1%;
+    box-shadow: 10px 10px 50px gray;
+    height: 80%;
+    border-radius: 15px;
+}
+.row img{
+    width: 100%;
+
+}
+.text{
+    text-align: center;
+    font-size: 25px;
+}
